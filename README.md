@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer with over six years of experience, specializing in building intuitive and dynamic applications. <br>My work includes developing a 2D uniform customizer and a content management system (CMS).<br>I thrive on solving complex problems and creating solutions that make a difference.
+I'm a software engineer with over seven years of experience, specializing in building intuitive and dynamic applications. <br>My work includes developing a 2D uniform customizer and a content management system (CMS).<br>I thrive on solving complex problems and creating solutions that make a difference.
 
 
 # 💻 Tech Stack:
